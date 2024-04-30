@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "teszt": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\mucsi\\Desktop\\rendszerfejlesztes\\rendszerfejlesztes",
+      "nativeDebugging": true
+    }
+  }
+}

@@ -1,0 +1,155 @@
+C:\Users\Domonkos\source\repos\teszt\teszt\obj\Debug\net6.0-windows\teszt.csproj.AssemblyReference.cache
+C:\Users\Domonkos\source\repos\teszt\teszt\obj\Debug\net6.0-windows\teszt.csproj.ResolveComReference.cache
+C:\Users\Domonkos\source\repos\teszt\teszt\obj\Debug\net6.0-windows\teszt.Form1.resources
+C:\Users\Domonkos\source\repos\teszt\teszt\obj\Debug\net6.0-windows\teszt.csproj.GenerateResource.cache
+C:\Users\Domonkos\source\repos\teszt\teszt\obj\Debug\net6.0-windows\teszt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Domonkos\source\repos\teszt\teszt\obj\Debug\net6.0-windows\teszt.AssemblyInfoInputs.cache
+C:\Users\Domonkos\source\repos\teszt\teszt\obj\Debug\net6.0-windows\teszt.AssemblyInfo.cs
+C:\Users\Domonkos\source\repos\teszt\teszt\obj\Debug\net6.0-windows\teszt.csproj.CoreCompileInputs.cache
+C:\Users\Domonkos\source\repos\teszt\teszt\bin\Debug\net6.0-windows\teszt.exe
+C:\Users\Domonkos\source\repos\teszt\teszt\bin\Debug\net6.0-windows\teszt.deps.json
+C:\Users\Domonkos\source\repos\teszt\teszt\bin\Debug\net6.0-windows\teszt.runtimeconfig.json
+C:\Users\Domonkos\source\repos\teszt\teszt\bin\Debug\net6.0-windows\teszt.dll
+C:\Users\Domonkos\source\repos\teszt\teszt\bin\Debug\net6.0-windows\teszt.pdb
+C:\Users\Domonkos\source\repos\teszt\teszt\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Domonkos\source\repos\teszt\teszt\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Domonkos\source\repos\teszt\teszt\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Domonkos\source\repos\teszt\teszt\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Domonkos\source\repos\teszt\teszt\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Domonkos\source\repos\teszt\teszt\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Domonkos\source\repos\teszt\teszt\obj\Debug\net6.0-windows\teszt.csproj.CopyComplete
+C:\Users\Domonkos\source\repos\teszt\teszt\obj\Debug\net6.0-windows\teszt.dll
+C:\Users\Domonkos\source\repos\teszt\teszt\obj\Debug\net6.0-windows\refint\teszt.dll
+C:\Users\Domonkos\source\repos\teszt\teszt\obj\Debug\net6.0-windows\teszt.pdb
+C:\Users\Domonkos\source\repos\teszt\teszt\obj\Debug\net6.0-windows\teszt.genruntimeconfig.cache
+C:\Users\Domonkos\source\repos\teszt\teszt\obj\Debug\net6.0-windows\ref\teszt.dll
+C:\Users\Domonkos\source\repos\teszt\teszt\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Domonkos\source\repos\teszt\teszt\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Domonkos\source\repos\teszt\teszt\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Domonkos\source\repos\teszt\teszt\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Domonkos\source\repos\teszt\teszt\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Domonkos\source\repos\teszt\teszt\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Domonkos\source\repos\teszt\teszt\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Domonkos\source\repos\teszt\teszt\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Domonkos\source\repos\teszt\teszt\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Domonkos\source\repos\teszt\teszt\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Domonkos\source\repos\teszt\teszt\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Domonkos\source\repos\teszt\teszt\obj\Debug\net6.0-windows\teszt.Admin.resources
+C:\Users\Domonkos\source\repos\teszt\teszt\obj\Debug\net6.0-windows\teszt.Warehouse.resources
+C:\Users\Domonkos\source\repos\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\teszt.exe
+C:\Users\Domonkos\source\repos\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\teszt.deps.json
+C:\Users\Domonkos\source\repos\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\teszt.runtimeconfig.json
+C:\Users\Domonkos\source\repos\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\teszt.dll
+C:\Users\Domonkos\source\repos\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\teszt.pdb
+C:\Users\Domonkos\source\repos\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Domonkos\source\repos\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Domonkos\source\repos\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Domonkos\source\repos\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Domonkos\source\repos\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Domonkos\source\repos\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Domonkos\source\repos\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Domonkos\source\repos\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Domonkos\source\repos\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Domonkos\source\repos\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Domonkos\source\repos\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Domonkos\source\repos\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Domonkos\source\repos\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Domonkos\source\repos\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Domonkos\source\repos\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Domonkos\source\repos\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Domonkos\source\repos\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Domonkos\source\repos\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\teszt.csproj.AssemblyReference.cache
+C:\Users\Domonkos\source\repos\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\teszt.csproj.ResolveComReference.cache
+C:\Users\Domonkos\source\repos\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\teszt.Admin.resources
+C:\Users\Domonkos\source\repos\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\teszt.Form1.resources
+C:\Users\Domonkos\source\repos\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\teszt.Warehouse.resources
+C:\Users\Domonkos\source\repos\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\teszt.csproj.GenerateResource.cache
+C:\Users\Domonkos\source\repos\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\teszt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Domonkos\source\repos\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\teszt.AssemblyInfoInputs.cache
+C:\Users\Domonkos\source\repos\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\teszt.AssemblyInfo.cs
+C:\Users\Domonkos\source\repos\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\teszt.csproj.CoreCompileInputs.cache
+C:\Users\Domonkos\source\repos\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\teszt.csproj.CopyComplete
+C:\Users\Domonkos\source\repos\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\teszt.dll
+C:\Users\Domonkos\source\repos\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\refint\teszt.dll
+C:\Users\Domonkos\source\repos\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\teszt.pdb
+C:\Users\Domonkos\source\repos\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\teszt.genruntimeconfig.cache
+C:\Users\Domonkos\source\repos\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\ref\teszt.dll
+C:\Users\mucsi\Source\Repos\Domar6\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\teszt.exe
+C:\Users\mucsi\Source\Repos\Domar6\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\teszt.deps.json
+C:\Users\mucsi\Source\Repos\Domar6\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\teszt.runtimeconfig.json
+C:\Users\mucsi\Source\Repos\Domar6\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\teszt.dll
+C:\Users\mucsi\Source\Repos\Domar6\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\teszt.pdb
+C:\Users\mucsi\Source\Repos\Domar6\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\mucsi\Source\Repos\Domar6\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\mucsi\Source\Repos\Domar6\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\mucsi\Source\Repos\Domar6\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\mucsi\Source\Repos\Domar6\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\mucsi\Source\Repos\Domar6\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\mucsi\Source\Repos\Domar6\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\mucsi\Source\Repos\Domar6\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\mucsi\Source\Repos\Domar6\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\mucsi\Source\Repos\Domar6\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\mucsi\Source\Repos\Domar6\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\mucsi\Source\Repos\Domar6\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\mucsi\Source\Repos\Domar6\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\mucsi\Source\Repos\Domar6\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\mucsi\Source\Repos\Domar6\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\mucsi\Source\Repos\Domar6\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mucsi\Source\Repos\Domar6\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mucsi\Source\Repos\Domar6\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\teszt.csproj.AssemblyReference.cache
+C:\Users\mucsi\Source\Repos\Domar6\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\teszt.csproj.ResolveComReference.cache
+C:\Users\mucsi\Source\Repos\Domar6\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\teszt.Admin.resources
+C:\Users\mucsi\Source\Repos\Domar6\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\teszt.Form1.resources
+C:\Users\mucsi\Source\Repos\Domar6\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\teszt.Warehouse.resources
+C:\Users\mucsi\Source\Repos\Domar6\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\teszt.csproj.GenerateResource.cache
+C:\Users\mucsi\Source\Repos\Domar6\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\teszt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mucsi\Source\Repos\Domar6\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\teszt.AssemblyInfoInputs.cache
+C:\Users\mucsi\Source\Repos\Domar6\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\teszt.AssemblyInfo.cs
+C:\Users\mucsi\Source\Repos\Domar6\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\teszt.csproj.CoreCompileInputs.cache
+C:\Users\mucsi\Source\Repos\Domar6\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\teszt.csproj.CopyComplete
+C:\Users\mucsi\Source\Repos\Domar6\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\teszt.dll
+C:\Users\mucsi\Source\Repos\Domar6\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\refint\teszt.dll
+C:\Users\mucsi\Source\Repos\Domar6\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\teszt.pdb
+C:\Users\mucsi\Source\Repos\Domar6\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\teszt.genruntimeconfig.cache
+C:\Users\mucsi\Source\Repos\Domar6\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\ref\teszt.dll
+C:\Users\mucsi\Desktop\rendszerfejlesztes\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\teszt.exe
+C:\Users\mucsi\Desktop\rendszerfejlesztes\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\teszt.deps.json
+C:\Users\mucsi\Desktop\rendszerfejlesztes\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\teszt.runtimeconfig.json
+C:\Users\mucsi\Desktop\rendszerfejlesztes\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\teszt.dll
+C:\Users\mucsi\Desktop\rendszerfejlesztes\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\teszt.pdb
+C:\Users\mucsi\Desktop\rendszerfejlesztes\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\mucsi\Desktop\rendszerfejlesztes\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\mucsi\Desktop\rendszerfejlesztes\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\mucsi\Desktop\rendszerfejlesztes\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\mucsi\Desktop\rendszerfejlesztes\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\mucsi\Desktop\rendszerfejlesztes\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\mucsi\Desktop\rendszerfejlesztes\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\mucsi\Desktop\rendszerfejlesztes\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\mucsi\Desktop\rendszerfejlesztes\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\mucsi\Desktop\rendszerfejlesztes\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\mucsi\Desktop\rendszerfejlesztes\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\mucsi\Desktop\rendszerfejlesztes\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\mucsi\Desktop\rendszerfejlesztes\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\mucsi\Desktop\rendszerfejlesztes\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\mucsi\Desktop\rendszerfejlesztes\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\mucsi\Desktop\rendszerfejlesztes\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mucsi\Desktop\rendszerfejlesztes\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mucsi\Desktop\rendszerfejlesztes\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\teszt.csproj.AssemblyReference.cache
+C:\Users\mucsi\Desktop\rendszerfejlesztes\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\teszt.csproj.ResolveComReference.cache
+C:\Users\mucsi\Desktop\rendszerfejlesztes\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\teszt.Admin.resources
+C:\Users\mucsi\Desktop\rendszerfejlesztes\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\teszt.Form1.resources
+C:\Users\mucsi\Desktop\rendszerfejlesztes\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\teszt.Professional.resources
+C:\Users\mucsi\Desktop\rendszerfejlesztes\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\teszt.Warehouse.resources
+C:\Users\mucsi\Desktop\rendszerfejlesztes\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\teszt.csproj.GenerateResource.cache
+C:\Users\mucsi\Desktop\rendszerfejlesztes\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\teszt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mucsi\Desktop\rendszerfejlesztes\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\teszt.AssemblyInfoInputs.cache
+C:\Users\mucsi\Desktop\rendszerfejlesztes\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\teszt.AssemblyInfo.cs
+C:\Users\mucsi\Desktop\rendszerfejlesztes\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\teszt.csproj.CoreCompileInputs.cache
+C:\Users\mucsi\Desktop\rendszerfejlesztes\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\teszt.csproj.CopyComplete
+C:\Users\mucsi\Desktop\rendszerfejlesztes\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\teszt.dll
+C:\Users\mucsi\Desktop\rendszerfejlesztes\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\refint\teszt.dll
+C:\Users\mucsi\Desktop\rendszerfejlesztes\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\teszt.pdb
+C:\Users\mucsi\Desktop\rendszerfejlesztes\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\teszt.genruntimeconfig.cache
+C:\Users\mucsi\Desktop\rendszerfejlesztes\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\ref\teszt.dll
+C:\Users\mucsi\Desktop\rendszerfejlesztes\rendszerfejlesztes\C# projekt\teszt\teszt\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\mucsi\Desktop\rendszerfejlesztes\rendszerfejlesztes\C# projekt\teszt\teszt\obj\Debug\net6.0-windows\teszt.WHWorker.resources
